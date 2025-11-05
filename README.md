@@ -39,5 +39,8 @@ In this project we are going to make an AI Macronutrient counter. The goal is to
 
 -PySerial
 
+          Instruction video:
+https://www.youtube.com/watch?v=FVew1etwnAA
+
 
 
