@@ -16,7 +16,7 @@ In this project we are going to make an AI Macronutrient counter. The goal is to
     Connect Python code to Arduino:
 
 -Put Python code into Visual Studio Code
-
+     
 
 -Code should reference the food recognition model and OpenAI's 3.5 model to classify the food and estimate macronutrients.
 
