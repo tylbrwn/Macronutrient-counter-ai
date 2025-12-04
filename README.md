@@ -1,7 +1,7 @@
 # Macronutrients-counter-ai
 IT Project 
 
-In this project we are going to make an AI Macronutrient counter. The goal is to put food in front of the camera and have the model recognize the food and use Groq's Llama-3.1-8b-instant model to find the macronutrients and display them onto a LED screen.
+In this project we made an AI Macronutrient counter. The goal is to put food in front of the camera and have the model recognize the food and use Groq's Llama-3.1-8b-instant model to find the macronutrients and display them onto a LED screen.
 
 Download food recognition model from HuggingFace:
 
