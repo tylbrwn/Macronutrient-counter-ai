@@ -38,7 +38,7 @@ Systems used:
 
  Instruction video:  
      
-     Python Video: https://www.youtube.com/watch?v=FVew1etwnAA
+     https://www.youtube.com/shorts/lljjmPuSPz8
 
 
 
